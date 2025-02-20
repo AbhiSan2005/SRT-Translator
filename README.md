@@ -1,8 +1,8 @@
-# 🎬 SRT Translator
+# SRT Translator
 
 A **React + Express** web application that allows users to upload an `.srt` subtitle file, translate it into multiple languages using **Google Translate API**, edit the translated content, and download the modified SRT file.
 
-## ✨ Features
+## Features
 - Upload `.srt` subtitle files.
 - Choose from **30+ languages** for translation.
 - Translate subtitles **line by line** while preserving timestamps.
@@ -12,15 +12,15 @@ A **React + Express** web application that allows users to upload an `.srt` subt
 
 ---
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/srt-translator.git
 cd srt-translator
 ```
 
-### 2️⃣ Backend Setup (Express Server)
+### Backend Setup (Express Server)
 ```bash
 cd backend
 npm install
@@ -32,7 +32,7 @@ npm start
 ```
 By default, the backend runs on **http://localhost:3000/**
 
-### 3️⃣ Frontend Setup (React App)
+### Frontend Setup (React App)
 ```bash
 cd ../frontend
 npm install
@@ -46,7 +46,7 @@ By default, the frontend runs on **http://localhost:5173/**
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. **Upload** an `.srt` file.
 2. **Select a target language** from the dropdown.
 3. Click **Translate** to process the subtitles.
@@ -55,28 +55,23 @@ By default, the frontend runs on **http://localhost:5173/**
 
 ---
 
-## 📸 Screenshot
-![SRT Translator Preview](https://via.placeholder.com/800x400?text=SRT+Translator+Preview)
-
----
-
-## 📌 Tech Stack
+## Tech Stack
 - **Frontend:** React (Vite), CSS
 - **Backend:** Node.js, Express.js
 - **Translation API:** Google Translate API
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Feel free to **fork** this repository and submit a pull request with improvements! 🛠️
 
 ---
 
-## 📜 License
+## License
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AbhiSan2005)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiraj-sankpal-06b216320/)
